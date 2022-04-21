@@ -11,4 +11,10 @@ Here we develop models by using Keras, Tensorflow and OpenCv for most of the pro
 * [Natural scenes classification for UAV's](https://github.com/umang299/Deep-Learning-/blob/main/Natural%20Scenes_classifier_for_UAV's.py)
 ![Clasification otput](https://github.com/umang299/Deep-Learning-/blob/main/Screenshot%202022-04-21%20161111.png)
 
+#### Description : 
+o	The problem statement is to predict the natural scenes around a UAV to tune the UAS to identify and operate accordingly
+o	Applied various augmentations (rotation, zoom, shear, brightness and night vision) on the images in two approaches, one applies it to a random set of images             second applies to all images. 
+o	Used 3 Deep Convolution Neural Networks for classification. The 1st and 2nd models are custom models the final is a transfer learning model VGG16.
+o	Evaluated the performance of each of the three models and choose the best one for final testing. Arrived at an accuracy of 0.82. The loss can be attributed to           bad data and less model training infrastructure. 
+
 
