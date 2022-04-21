@@ -8,4 +8,7 @@ Here we develop models by using Keras, Tensorflow and OpenCv for most of the pro
 * [Face mask detection system ](https://github.com/umang299/Deep-Learning-/blob/main/face_mask_detection_mobilenetv2.py)
 ![mask op.JPG](https://github.com/umang299/Deep-Learning-/blob/main/mask%20op.JPG)
 
+* [Natural scenes classification for UAV's](https://github.com/umang299/Deep-Learning-/blob/main/Natural%20Scenes_classifier_for_UAV's.py)
+![Clasification otput](https://github.com/umang299/Deep-Learning-/blob/main/Screenshot%202022-04-21%20161111.png)
+
 
